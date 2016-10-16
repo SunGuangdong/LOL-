@@ -1,0 +1,8 @@
+D:\courseProject\LoLServer\LOLServer\NetFrame\bin\Debug\NetFrame.dll
+D:\courseProject\LoLServer\LOLServer\NetFrame\bin\Debug\NetFrame.pdb
+D:\courseProject\LoLServer\LOLServer\NetFrame\obj\Debug\NetFrame.dll
+D:\courseProject\LoLServer\LOLServer\NetFrame\obj\Debug\NetFrame.pdb
+E:\ku\Desktop\课时24资料\LoLServer\NetFrame\bin\Debug\NetFrame.dll
+E:\ku\Desktop\课时24资料\LoLServer\NetFrame\bin\Debug\NetFrame.pdb
+E:\ku\Desktop\课时24资料\LoLServer\NetFrame\obj\Debug\NetFrame.dll
+E:\ku\Desktop\课时24资料\LoLServer\NetFrame\obj\Debug\NetFrame.pdb
